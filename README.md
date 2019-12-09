@@ -11,7 +11,7 @@ With our bitcoin monitor, the current bitcoin price is queried regularly, evalua
   There will be the following columns:
   - id
   - date
-  - during 
+  - time 
   - price
   - currency
 - **Script**
