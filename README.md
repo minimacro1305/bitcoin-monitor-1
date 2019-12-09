@@ -14,7 +14,7 @@ With our bitcoin monitor, the current bitcoin price is queried regularly, evalua
   - time 
   - price
   - currency
-- **Script** - Per Cronjob ausgeführt unter der woche alle 12h(0 */12 * * 1-5) am wochenende alle 6h (0 */6 * * 6-7)
+- **Script** - Called via cronjob. During the week every 12 hours (0 */12 * * 1-5) and during weekends every 6 hours (0 */6 * * 6-7)
 
 
 
